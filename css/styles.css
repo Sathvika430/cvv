@@ -1,0 +1,16 @@
+body{
+        background-color: rgb(203, 234, 238);
+    }
+h1{
+    color:dodgerblue;
+}
+h3{
+    color:dodgerblue;
+}
+hr {
+        border-style:none;
+        border-top-style:dotted;
+        border-color: grey;
+        border-width: 5px;
+        width:7%;
+}
